@@ -1,6 +1,7 @@
 # Rakuten-kai
 
 (English Below)
+
 楽天短期インターンシップでは、ウェブアプリエンジニアとして企画から開発までの一連の仕事を体験させていただきました。インターン生4人とメンター2人のチームで「楽天介」というウェブアプリを開発しました。このウェブアプリは困っている外国人と助けてあげたい日本人をマッチングさせるアプリです。開発には、JavaとSpring boot, Bootstrapを使っていました。チームでは、積極的にアイデア出しに挑戦して、最後に私のアイデアが採用されました。また、フロントエンドの部分を担当しました。![ウェブアプリの動作例は下に示しています](#Example-of-the-web-app)。
 
 This is a web application that we created in Rakuten Short Internship. This web app can help foreginers by matching foreginers who need help and Japanese who want to offer help. It is like a matching app, but japanese-foreginers version! The web app was developed in Java, HTML using frameworks like Spring Boot and Bootstrap. ![See more below](#Example-of-the-web-app) for the example of the web app on action!
